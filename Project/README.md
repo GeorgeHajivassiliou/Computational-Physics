@@ -1,8 +1,4 @@
-------------------------------------------------------------
-----------------------READ ME-------------------------------
----------------COMPUTATIONAL PHYSICS PROJECT 2--------------
-------------GEORGIOS HAJIVASSILIOU CID: 01068099------------
-------------------------------------------------------------
+# COMPUTATIONAL PHYSICS PROJECT 2
 
 You will find two Python 3.6 notebooks, one named Quadrature_Methods.ipynb
 and the other Monte_Carlo_Methods.ipynb. Each one does what the name suggests.
